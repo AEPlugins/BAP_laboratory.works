@@ -18,5 +18,4 @@ if z == 1:
     fact = for_factorial(n)
 elif z == 2:
     fact = while_factorial(n)
-print("Факториал натурального числа n : ", end="")
-print(fact)
+print("Факториал натурального числа n : ", fact)
