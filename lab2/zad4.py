@@ -27,3 +27,4 @@ if z == 1:
 elif z == 2:
     fib = while_fib(n)
 print("Число Фибоначчи : ", fib)
+
